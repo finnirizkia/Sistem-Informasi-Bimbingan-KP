@@ -1,0 +1,77 @@
+.btn-glyphicon {
+    padding:8px;
+    background:#ffffff;
+    margin-right:4px;
+}
+.icon-btn {
+    padding: 1px 15px 3px 2px;
+    border-radius:100px;
+    margin:10px; /* create gap between buttons for display, you can remove this*/
+}
+
+ /*================================
+ ROUND FILL BUTTON STYLES
+==================================*/
+
+ .db-btn-round-fill-green {   
+   
+background-color:#46beac;
+border:3px solid #46beac; 
+padding: 5px;
+color:#fff; 
+border-radius:15px; 
+-webkit-border-radius:15px;
+-moz-border-radius:15px;
+  
+}
+ .db-btn-round-fill-green:hover {
+
+ background-color:transparent;
+ padding: 5px;	
+ color:#000;
+ text-decoration:none;
+ border:3px solid #46beac; 
+    }
+
+ .db-btn-round-fill-grey {   
+   
+background-color:grey;
+border:3px solid grey; 
+padding: 8px;
+color:#fff; 
+border-radius:15px; 
+-webkit-border-radius:15px;
+-moz-border-radius:15px;
+  
+}
+ .db-btn-round-fill-grey:hover {
+
+ background-color:transparent;
+ padding: 8px;	
+ color:#000;
+ text-decoration:none;
+ border:3px solid grey; 
+    }
+
+
+ 
+ /*================================
+ROUND HOLLOW BUTTON STYLES
+==================================*/
+.db-btn-round-hollow-green {   
+   
+background-color:transparent;
+border:3px solid #46beac; 
+color:#000;      
+border-radius:35px; 
+-webkit-border-radius:35px;
+-moz-border-radius:35px;
+  
+}
+ .db-btn-round-hollow-green:hover {
+
+ background-color:#46beac;
+ color:#fff;
+ text-decoration:none;
+ border-radius:35px; 
+    }
